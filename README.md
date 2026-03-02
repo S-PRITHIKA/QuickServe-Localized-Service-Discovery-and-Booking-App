@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-**QuickServe** is a full-stack Service Booking Application developed using Java technologies.
+QuickServe is a full-stack Service Booking Application developed using Java technologies.
 It allows users to register, browse services, book appointments, make payments, and manage booking history.
 The system also includes an Admin panel for managing services, users, and bookings.
 
@@ -10,7 +10,7 @@ This project demonstrates complete full-stack development including frontend UI,
 
  
  🎯 Features
-👤 User Features
+ User Features
 
 * User Registration & Login (JWT Authentication)
 * Browse Available Services
@@ -20,7 +20,7 @@ This project demonstrates complete full-stack development including frontend UI,
 * View Booking History
 * Rate & Review Services
 
-### 🛠 Admin Features
+ Admin Features
 
 * Admin Login
 * Add / Update / Delete Services
@@ -32,7 +32,7 @@ This project demonstrates complete full-stack development including frontend UI,
  
  Tech Stack
 
-### 🔹 Frontend
+🔹 Frontend
 
 * HTML5
 * CSS3
@@ -40,7 +40,7 @@ This project demonstrates complete full-stack development including frontend UI,
 * React.js (if used)
 * Axios (API communication)
 
-### 🔹 Backend
+🔹 Backend
 
 * Java
 * Spring Boot
@@ -49,20 +49,20 @@ This project demonstrates complete full-stack development including frontend UI,
 * Hibernate
 * REST APIs
 
-### 🔹 Database
+🔹 Database
 
 * MySQL
 
-### 🔹 Security
+🔹 Security
 
 * Spring Security
 * JWT Authentication
 * Role-Based Authorization (Admin/User)
 
-### 🔹 Tools & Others
+🔹 Tools & Others
 
 * Maven
-* Postman (API Testing)
+* Thunderclient (API Testing)
 * Git & GitHub
 * IntelliJ / Eclipse / VS Code
 
@@ -88,7 +88,7 @@ quickserve/
 └── README.md
 ```
 
- 🔄 Application Workflow
+  Application Workflow
 
 1. User registers and logs in.
 2. User browses services.
@@ -177,15 +177,7 @@ Frontend runs on:
 http://localhost:3000
 ```
 
-📸 Screenshots (Optional)
-
-* Home Page
-* Login Page
-* Service Listing Page
-* Booking Page
-* Admin Dashboard
-
-🧪 Testing
+ Testing
 
 * API Testing using Postman
 * Manual UI Testing
@@ -199,15 +191,4 @@ http://localhost:3000
 * Mobile App Version
 * AI-based Service Recommendations
 
- 🤝 Contribution
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-
-Just tell me what you need.
+ 
