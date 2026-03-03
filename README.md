@@ -5,11 +5,9 @@
 QuickServe is a full-stack Service Booking Application developed using Java technologies.
 It allows users to register, browse services, book appointments, make payments, and manage booking history.
 The system also includes an Admin panel for managing services, users, and bookings.
-
-This project demonstrates complete full-stack development including frontend UI, backend APIs, authentication, database integration, and role-based access control.
-
  
- 🎯 Features
+  Features
+
  User Features
 
 * User Registration & Login (JWT Authentication)
@@ -97,7 +95,7 @@ quickserve/
 5. Booking details are stored in database.
 6. Admin monitors bookings and manages services.
 
- 🗄 Database Schema (Main Tables)
+  Database Schema 
 
 * Users
 * Roles
@@ -106,7 +104,7 @@ quickserve/
 * Payments
 * Reviews
 
- 🔐 Authentication Flow
+  Authentication Flow
 
 * User logs in with credentials.
 * Backend validates credentials.
@@ -114,7 +112,7 @@ quickserve/
 * Token is stored on client side.
 * Token is sent in Authorization header for protected routes.
 
- ⚙️ Installation & Setup
+  Installation & Setup
 
  🔹 Backend Setup
 
@@ -183,12 +181,6 @@ http://localhost:3000
 * Manual UI Testing
 * Validation & Error Handling Implemented
 
- 📈 Future Enhancements
-
-* Online Payment Gateway Integration (Razorpay / Stripe)
-* Email & SMS Notifications
-* Real-Time Booking Updates
-* Mobile App Version
-* AI-based Service Recommendations
+ 
 
  
