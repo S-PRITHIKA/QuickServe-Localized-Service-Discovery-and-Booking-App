@@ -169,12 +169,6 @@ npm install
 npm start
 ```
 
-Frontend runs on:
-
-```
-http://localhost:3000
-```
-
  Testing
 
 * API Testing using Postman
